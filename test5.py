@@ -1,0 +1,1 @@
+mylist = ['blue','red','black']
